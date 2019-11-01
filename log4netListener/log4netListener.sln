@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4netListener", "log4netListener.csproj", "{CB333D07-39DF-4DD7-8CD6-9680334F425D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4netTester", "..\log4netTester\log4netTester.csproj", "{11A2E7EC-4524-4E51-8627-C8E8E173B9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB333D07-39DF-4DD7-8CD6-9680334F425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB333D07-39DF-4DD7-8CD6-9680334F425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB333D07-39DF-4DD7-8CD6-9680334F425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB333D07-39DF-4DD7-8CD6-9680334F425D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A2E7EC-4524-4E51-8627-C8E8E173B9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A2E7EC-4524-4E51-8627-C8E8E173B9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A2E7EC-4524-4E51-8627-C8E8E173B9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A2E7EC-4524-4E51-8627-C8E8E173B9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E5604D-0994-4EB4-9E70-753EF947F718}
+	EndGlobalSection
+EndGlobal
